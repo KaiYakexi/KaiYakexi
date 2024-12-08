@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Yakexi](https://github.com/user-attachments/assets/368d4c03-f44e-4640-92d0-638c1687b9bd)
+
 
 <!--
 **KaiYakexi/KaiYakexi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
