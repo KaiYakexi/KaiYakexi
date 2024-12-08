@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiYakexi&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=E059B2)](https://github.com/KaiYakexi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiYakexi&layout=donut-vertical)](https://github.com/KaiYakexi/github-readme-stats)
 
 
 </div>
