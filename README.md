@@ -1,7 +1,12 @@
-## Hi there 👋
 ![Yakexi](https://github.com/user-attachments/assets/368d4c03-f44e-4640-92d0-638c1687b9bd)
+## Hi there 👋
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/KaiYakexi)
 
 
+</div>
 <!--
 **KaiYakexi/KaiYakexi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
